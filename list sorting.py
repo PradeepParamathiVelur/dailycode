@@ -1,5 +1,5 @@
 
-l1=[1,2,1,4,5,6,35,4]
+l1=[1,2,1,4,5,6,36,4]
 
 for x in range (0,len(l1)):
     for y in range(x,len(l1)):
